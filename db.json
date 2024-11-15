@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": "1bf3",
+      "name": "Fruta verde ",
+      "budget": "150004",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": -10000100001,
+      "services": [
+        {
+          "name": "Desenvolvedor Web",
+          "cost": "100000",
+          "description": "a"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
