@@ -1,1 +1,1 @@
-Projeto Cost - Projeto para projeto de desenvolvimento 
+Projeto Cost - Projeto para projetos de desenvolvimento 
